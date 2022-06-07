@@ -1,0 +1,31 @@
+*{
+    font-size: 14px;
+    font-family:sans-serif;
+}
+body{
+    background-image:url(./images/WallpaperDog-17151090.jpg);
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+li{
+    border: 5px solid grey;
+    box-shadow: inset;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 15px;;
+    background-color: rgb(110, 137, 13);
+}
+#logo{
+    width: 10%;
+
+}
