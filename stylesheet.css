@@ -5,17 +5,18 @@
     padding: 0;
     
 }
+
 body{
     background-image:url(./images/WallpaperDog-17151090.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat; 
-    /* background-position-y: 75px;   */
 }
 
 img{
     height: 50px;
 }
+
 .teams img{  
     
     background-color: aliceblue;
@@ -24,13 +25,6 @@ img{
     height: 50px;
     
 }
-/* .teams ul{
-    display: flex;
-    justify-content: space-between;
-   
-    height: 75px;
-    background-image: none;   
-} */
 
 .logobar{
     display: flex;
@@ -45,18 +39,9 @@ img{
     width: 80%;
 }
 
- ul{
+header ul{
     display: flex;
     justify-content: space-around;
-}
-
-
-
-
-li{
-    list-style-type: none;
-    padding: 10px;
-    color: rgb(0, 0, 246);
 }
 
 a{
