@@ -45,7 +45,7 @@ img{
     width: 80%;
 }
 
-.teams ul{
+ ul{
     display: flex;
     justify-content: space-around;
 }
@@ -53,27 +53,14 @@ img{
 
 
 
-/* li{
+li{
     list-style-type: none;
     padding: 10px;
     color: rgb(0, 0, 246);
-    
-    display: flex;
-    justify-content: space-between;   
-} */
+}
 
 a{
-    border-bottom: 2px solid yellow;
-    background-color: brown;
+    text-decoration: none;
+    border: 2px solid yellow;
+    background-color:white;
 }
-
-
-
-/* .logo{
-    margin-left: 0px;
-   padding: 0;
-   
-   
-    
-}
-*/
